@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div.wrapper{
+    width: 100%;
+}
+@font-face{
+    font-family: Apple;
+    src: url(../fonts/Poppins-Black.eot);
+    src: url(../fonts/Poppins-Black.ttf);
+    src: url(../fonts/Poppins-Black.woff);
+    src: url(../fonts/Poppins-Black.woff2);
+}

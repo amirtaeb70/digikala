@@ -1,0 +1,124 @@
+footer{
+    width: 100%;
+    height: auto;
+    background-color: #f5f5f7;
+    padding-top: 30px;
+}
+footer>div.footer{
+    width: 100%;
+    height: auto;
+    background-color: #f5f5f7;
+    padding: 0px 30px;
+}
+footer>div.footer>p.footer-1{
+    width: 100%;
+    height: auto;
+    font-family: Apple;
+    font-size: 14px;
+    color: #6e6e73;
+}
+footer>div.footer>p.footer-2{
+    width: 100%;
+    height: 26px;
+    font-family: Apple;
+    font-size: 14px;
+    color: #6e6e73;
+    padding-top: 22px;
+}
+footer>div.footer>p.footer-3{
+    width: 100%;
+    height: auto;
+    font-family: Apple;
+    font-size: 14px;
+    color: #6e6e73;
+    padding-top: 22px;
+}
+footer>div.footer>p.footer-4{
+    width: 100%;
+    height: 26px;
+    font-family: Apple;
+    font-size: 14px;
+    color: #6e6e73;
+    padding-top: 22px;
+}
+footer>div.footer>p.footer-5{
+    width: 100%;
+    height: 26px;
+    font-family: Apple;
+    font-size: 14px;
+    color: #6e6e73;
+    padding-top: 22px;
+}
+footer>div.footer>p.footer-6{
+    width: 100%;
+    height: 26px;
+    font-family: Apple;
+    font-size: 14px;
+    color: #6e6e73;
+    padding-top: 22px;
+}
+footer>div.footer>p.footer-6>a{
+    font-family: Apple;
+    font-size: 14px;
+    color: #424245;
+    padding-top: 22px;
+}
+footer>div.footer>hr{
+    margin-top: 30px;
+}
+footer>div.footer>div.footer-1{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+footer>div.footer>div.footer-1>ul{
+    width: 100%;
+    height: inherit;
+    list-style: none;
+}
+footer>div.footer>div.footer-1>ul>li.li-1{
+    width: 100%;
+    font-family: Apple;
+    font-size: 14px;
+    color: #424245;
+    font-weight: bold;
+    padding-top: 20px;
+}
+footer>div.footer>div.footer-1>ul>li.li-1>a>i{
+    padding-left:400px;
+    color: #2b2b2b;
+}
+footer>div.footer>div.footer-1>ul>li.li-2{
+    padding-top: 10px;
+    display: none;
+}
+footer>div.footer>div.footer-1>ul>li.li-2>a{
+    font-family: Apple;
+    font-size: 14px;
+    color: #424245;
+    text-decoration: none;
+}
+footer>div.footer>div.footer-2{
+    display: flex;
+    width: 100%;
+    height: 30px;
+    margin-top: 20px;
+}
+footer>div.footer>div.footer-2>p{
+    font-family: Apple;
+    font-size: 12px;
+    color: #424245;
+    line-height: 30px;
+}
+footer>div.footer>div.footer-2>p>a{
+    color: #0066CC;
+}
+footer>div.footer>hr.end{
+    margin-top: 10px;
+}
+footer>div.footer>p{
+    font-family: Apple;
+    font-size: 12px;
+    color: #424245;
+    margin-top: 10px;
+}
